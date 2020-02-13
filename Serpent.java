@@ -1,5 +1,6 @@
 public class Serpent {
-    private string nom;
+    private String nom;
+    private int nbFruitMange;
 
     public Serpent(){}
 }
