@@ -3,4 +3,9 @@ public class Serpent {
     private int nbFruitMange;
 
     public Serpent(){}
+
+    public Serpent(int taille, double position){
+        this.t=taille;
+        this.x=position;
+    }
 }
