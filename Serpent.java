@@ -1,6 +1,9 @@
 public class Serpent {
     private String nom;
     private int nbFruitMange;
+	private double posx;
+	private double posy;
+	private double score;
 
     public Serpent(){}
 
