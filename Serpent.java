@@ -11,4 +11,7 @@ public class Serpent {
         this.t=taille;
         this.x=position;
     }
+    public void setnom(String name){
+        this.nom=name;
+    }
 }
