@@ -1,5 +1,5 @@
 public class Serpent {
-    private String nom;
+    private String nom="théo";
     private int nbFruitMange;
 	private double posx;
 	private double posy;
